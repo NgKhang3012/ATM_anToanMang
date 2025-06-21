@@ -1,1 +1,1 @@
-2 app code ve SSO, SLO , LDAP doan atm 
+2 app code about function ADFS (SSO, SLO , LDAP ,MFA ) .
